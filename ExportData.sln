@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportData", "ExportData\ExportData.csproj", "{DA4A8558-C07B-4431-BDCA-7D4526601E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzeData", "AnalyzeData\AnalyzeData.csproj", "{C0F3143A-4E64-4BD1-8ED8-73F9BDB7B564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4A8558-C07B-4431-BDCA-7D4526601E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4A8558-C07B-4431-BDCA-7D4526601E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4A8558-C07B-4431-BDCA-7D4526601E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4A8558-C07B-4431-BDCA-7D4526601E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F3143A-4E64-4BD1-8ED8-73F9BDB7B564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F3143A-4E64-4BD1-8ED8-73F9BDB7B564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F3143A-4E64-4BD1-8ED8-73F9BDB7B564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F3143A-4E64-4BD1-8ED8-73F9BDB7B564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
